@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3dcc2e6-cd55-49e4-b341-6934a999a4c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dDXRoZ0CQR7LJIUxrlxYoHmxZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="460" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ather\IdeaProjects\untitled38\src\com\company" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Afi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Afi" />
+      <module name="untitled38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled38" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorsTranslate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MorsTranslate" />
+      <module name="untitled38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCodeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MorseCodeMachine" />
+      <module name="untitled38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Afi" />
+        <item itemvalue="Application.MorsTranslate" />
+        <item itemvalue="Application.MorseCodeMachine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3dcc2e6-cd55-49e4-b341-6934a999a4c7" name="Default Changelist" comment="" />
+      <created>1591960631850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591960631850</updated>
+      <workItem from="1591960634398" duration="9003000" />
+      <workItem from="1591969751820" duration="23081000" />
+      <workItem from="1591995269568" duration="334000" />
+      <workItem from="1591995619209" duration="2813000" />
+      <workItem from="1591998629561" duration="294000" />
+      <workItem from="1591999257703" duration="1744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="154" key="#Project_Structure" timestamp="1591960642070">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="452" y="154" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1591960642070" />
+    <state x="721" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1591982102102">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="721" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1591982102102" />
+    <state x="627" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591988407564">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="627" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591988407564" />
+    <state width="1865" height="379" key="GridCell.Tab.0.bottom" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.0.center" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.0.left" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.0.right" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.1.bottom" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.1.center" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.1.left" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state width="1865" height="379" key="GridCell.Tab.1.right" timestamp="1592001002113">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="379" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1592001002113" />
+    <state x="571" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1591998629763">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="571" y="361" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591998629763" />
+    <state x="674" y="436" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1591966416363">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="674" y="436" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591966416363" />
+    <state x="230" y="89" key="new project wizard" timestamp="1591988590855">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="230" y="89" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1591988590855" />
+    <state x="642" y="134" key="refactoring.ChangeSignatureDialog" timestamp="1591987389395">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="642" y="134" key="refactoring.ChangeSignatureDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591987389395" />
+    <state x="532" y="267" key="run.anything.popup" timestamp="1591999400202">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="532" y="267" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1591999400202" />
+  </component>
+</project>
